@@ -28,5 +28,4 @@ const Stack = function() {
   }
 }
 
-// Initialize stack
-const stack = new Stack()
+module.exports = Stack
